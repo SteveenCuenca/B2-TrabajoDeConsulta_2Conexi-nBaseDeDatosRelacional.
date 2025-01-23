@@ -1,1 +1,1 @@
-# B2-Trabajo-de-Consulta-2-Conexi-n-Base-de-Datos-Relacional.
+# B2-TrabajoDeConsulta_2Conexi-nBaseDeDatosRelacional.
